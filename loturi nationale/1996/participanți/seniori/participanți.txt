@@ -1,0 +1,38 @@
+* Sigur:
+
+ 1. Oliver Aldulea, Brașov, clasa a 11-a [0]
+ 2. Mihai Bădoiu, București, clasa a 11-a [0,1,2]
+ 3. Cristian Cadar, București, clasa a 10-a [0,2]
+ 4. Viorel Canja, București, clasa a 11-a [0]
+ 5. Adrian Cârcu, Bistrița, clasa a 9-a [4]
+ 6. Cătălin Frâncu, București, clasa a 12-a [0,1,2]
+ 7. Ovidiu Gheorghioiu, Alba Iulia, clasa a 11-a [0,1,2]
+ 8. Valentin Gheorghiță, Ploiești, clasa a 11-a [2]
+ 9. Zsolt Husz, Oradea, clasa a 11-a [2,3]
+10. Liviu Manolache, Piatra Neamț, clasa a 12-a [0]
+11. Vlad Petric, Brașov, clasa a 12-a [0,2,3]
+12. Mihai Stroe, București, clasa a 10-a [0,2]
+13. Ciprian Șerbu, București, clasa a 12-a [2,3]
+14. Marius Vlad, Ploiești, clasa a 12-a [0,1,2]
+
+* Nesigur:
+
+Aurel Botinanț, Alba Iulia, clasa a 12-a
+Bogdan Nițulescu, București, clasa a 12-a
+Rareș Pop, Cluj, clasa a 12-a [0]
+Mihai Pora, Timișoara, clasa a 12-a
+
+* Propuși de Infoarena [2]
+
+Mirel Apostol, București, clasa a 11-a [2] (sînt 99% sigur că nu)
+Cătălin Grigoroșcuță, Botoșani, clasa a 10-a [2]
+Adrian Ion, Timișoara, clasa a 12-a [2]
+Sergiu Ștefanov, Timișoara, clasa a 11-a [2,3]
+
+* Referințe
+
+[0] Amintiri clare despre conversații, împărțit camera etc.
+[1] Statistici IOI 1996 https://stats.ioinformatics.org/results/1996
+[2] Infoarena: subiecte, rezultate și calificați lot ONI 1996 https://infoarena.ro/downloads?action=download&file=ONI1996v1.0.zip&safe_only=false
+[3] Infoarena: subiecte și rezultate CEOI 1994-1999 https://infoarena.ro/downloads?action=download&file=ceoi1994-1999.zip&safe_only=false
+[4] Site personal Adrian Cârcu http://adic.3x.ro/
